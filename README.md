@@ -11,7 +11,7 @@ It's based on LINQ(Language-integrated query) concept. Basically it's also anASP
 
 ## Delete the Data...
 ## Showing that the data deleted from your table which you connect to the LINQ concept.
-<ig src="https://github.com/RiyaShah08/LINQ_functionality_Explorecode/blob/main/outout/delete.PNG">
+<img src="https://github.com/RiyaShah08/LINQ_functionality_Explorecode/blob/main/outout/delete.PNG">
 <br>
 
 ## Show Data 
