@@ -1,0 +1,10 @@
+D:\Blog\prac_16_LINQ\prac_16_LINQ\bin\prac_16_LINQ.dll
+D:\Blog\prac_16_LINQ\prac_16_LINQ\bin\prac_16_LINQ.pdb
+D:\Blog\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.csprojResolveAssemblyReference.cache
+D:\Blog\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.dll
+D:\Blog\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.pdb
+D:\sem 4\ADT\coding file\prac_16_LINQ\prac_16_LINQ\bin\prac_16_LINQ.dll
+D:\sem 4\ADT\coding file\prac_16_LINQ\prac_16_LINQ\bin\prac_16_LINQ.pdb
+D:\sem 4\ADT\coding file\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.csprojResolveAssemblyReference.cache
+D:\sem 4\ADT\coding file\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.dll
+D:\sem 4\ADT\coding file\prac_16_LINQ\prac_16_LINQ\obj\Debug\prac_16_LINQ.pdb
